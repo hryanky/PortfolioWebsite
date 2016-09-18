@@ -1,0 +1,35 @@
+body{
+font-family: 'Lato', sans-serif;
+color: #2d3c49;
+font-weight: 300;
+}
+.title-super{
+  font-size: 60px;
+}
+.text-thin{
+  font-weight: 300;
+}
+.text-middle{
+  padding-left: 20px;
+  color: #7d97ad;
+  font-family: 'Amiko', sans-serif;
+}
+.image-title{
+  font-weight: 400;
+}
+.image-middle{
+  padding: 0 15px !important;
+  width: 100%;
+}
+.image{
+  width: 100%
+}
+.breakline{
+  height: 5px;
+  background-color: #7d97ad;
+}
+.logo{
+  margin-top: 20px;
+  max-width: 100px;
+  max-height: 100px;
+}
